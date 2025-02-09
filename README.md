@@ -79,9 +79,6 @@ The below is a sample with the correct values you can use to confirm your calcul
 ### Testing
 
 The project uses Jest for testing. The test file (cart.test.js) includes unit tests for the following functionalities:
-
 Adding a new product to the cart.
-
 Updating the quantity of an existing product in the cart.
-
 Calculating the correct cart state, including subtotal, tax, and total amounts.
