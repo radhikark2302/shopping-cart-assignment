@@ -74,3 +74,14 @@ The below is a sample with the correct values you can use to confirm your calcul
 * ❌ Submit any form of app, such as web APIs, browser, desktop, or command-line applications.
 * ❌ Add unnecessary layers of abstraction.
 * ❌ Add unnecessary patterns/ architectural features that aren’t called for e.g. persistent storage.
+
+
+### Testing
+
+The project uses Jest for testing. The test file (cart.test.js) includes unit tests for the following functionalities:
+
+Adding a new product to the cart.
+
+Updating the quantity of an existing product in the cart.
+
+Calculating the correct cart state, including subtotal, tax, and total amounts.
