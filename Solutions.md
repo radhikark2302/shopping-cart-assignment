@@ -43,9 +43,9 @@ Expected Output:
     "cornflakes": { "price": 4.99, "quantity": 1 },
     "weetabix": { "price": 7.29, "quantity": 2 }
   },
-  "subtotal": "19.57",  // (4.99 * 1) + (7.29 * 2)
-  "tax": "2.45",         // 19.57 * 0.125
-  "total": "22.02"       // 19.57 + 2.45
+  "subtotal": "19.57",
+  "tax": "2.45",
+  "total": "22.02"
 }
 
 🛠 Unit Testing
