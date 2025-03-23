@@ -75,9 +75,3 @@ The below is a sample with the correct values you can use to confirm your calcul
 * ❌ Add unnecessary layers of abstraction.
 * ❌ Add unnecessary patterns/ architectural features that aren’t called for e.g. persistent storage.
 
-
-### Start The API
-npm run serve-products
-
-### Run the tests
-npm test
