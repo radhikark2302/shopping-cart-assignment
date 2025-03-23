@@ -37,6 +37,7 @@ Add 1 × cornflakes @ 4.99 each
 Add 2 × weetabix @ 7.29 each
 
 Expected Output:
+
 {
   "items": {
     "cornflakes": { "price": 4.99, "quantity": 1 },
